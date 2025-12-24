@@ -12,11 +12,10 @@ WinGet is Microsoft's official package manager for Windows. It allows users to d
 
 ## Installation
 
-To install a package from this repository using winget:
+First, add this repository as a source to WinGet:
 
 ```powershell
-winget install ethanolivertroy.kevs-tui
-```
+winget source add --name ethanolivertroy https://github.com/ethanolivertroy/winget-pkgs.git
 
 ## Repository Structure
 
