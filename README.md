@@ -8,7 +8,7 @@ WinGet is Microsoft's official package manager for Windows. It allows users to d
 
 ## Available Packages
 
-- **kevs-tui**: A terminal user interface application
+- **[kevs-tui](https://github.com/ethanolivertroy/kevs-tui)**: A terminal user interface application
 
 ## Installation
 
