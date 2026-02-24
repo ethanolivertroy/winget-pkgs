@@ -4,7 +4,7 @@ PackageIdentifier: ethanolivertroy.cmvp
 PackageVersion: 0.1.3
 InstallerLocale: en-US
 InstallerType: zip
-ReleaseDate: "2026-02-23"
+ReleaseDate: "2026-02-24"
 Installers:
   - Architecture: arm64
     NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: cmvp.exe
         PortableCommandAlias: cmvp
     InstallerUrl: https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.3/cmvp-windows-arm64.zip
-    InstallerSha256: 127f7ee4a9191da8452cb493c64d445bb0d4ce05e44da8958c3e4833b8075827
+    InstallerSha256: 1c54e437b7c3805ffe5196dbab8339c67f39134e523c63da7665693521998d5c
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
       - RelativeFilePath: cmvp.exe
         PortableCommandAlias: cmvp
     InstallerUrl: https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.3/cmvp-windows-amd64.zip
-    InstallerSha256: 0b7b6ebc43dcd25b846d3e8c1c21430d159504a2e0a10e8806149f38892740a1
+    InstallerSha256: dcb483c41387c165415ced2a780681e85dc6c8b4aaae16ffe0c5c60f52f1f111
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
